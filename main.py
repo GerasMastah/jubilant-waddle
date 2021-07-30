@@ -1,7 +1,8 @@
 import os
+from functions import bcolors
 from tabulate import tabulate
 from apis import *
-from functions import bcolors
+
 
 os.system('cls||clear')
 
